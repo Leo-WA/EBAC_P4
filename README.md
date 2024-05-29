@@ -1,7 +1,7 @@
 # EBAC_P4 - Landing Page
 
 ## Sobre o Projeto
-Este projeto consiste em uma landing page desenvolvida como parte do curso [Nome do Curso] da EBAC. O objetivo deste projeto é É a criação de uma lading page com o tema em filmes.
+Este projeto consiste em uma landing page desenvolvida como parte do curso da EBAC. O objetivo deste projeto é É a criação de uma lading page com o tema em filmes.
 
 Acesse a página em: http://ebac-p4.vercel.app
 
